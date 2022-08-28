@@ -26,6 +26,21 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+**I am bolding this** 
+
+_this is ialic_
+
+# This is also a really cool header
+## This is even cooler
+### This is even more cool
+
+- this is a list
+- with bullet points
+1. now this is 
+2. one with 
+3. numbers
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
