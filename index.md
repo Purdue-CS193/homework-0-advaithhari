@@ -26,19 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-**I am bolding this** 
+# Advaith's First CS193 Homework
 
-_this is ialic_
+- CS193 has good teachers
+- CS193 has fun coursework
+- CS193 is not stressful
+- I can have a lot of fun in CS193
 
-# This is also a really cool header
-## This is even cooler
-### This is even more cool
 
-- this is a list
-- with bullet points
-1. now this is 
-2. one with 
-3. numbers
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
